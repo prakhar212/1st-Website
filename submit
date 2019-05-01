@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name ="viewport" content="width-device">
+    <title>Bailiwick | Services</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+      <header>
+      	<div class="container">
+      		<div id="branding">
+      			<h1><span class="highlight">Bailiwick</span> Video Editing</h1>
+            </div>
+          <nav>
+          <ul>
+            		<li><a href="index.html">Home</a></li>
+            		<li><a href="about.html">About</a></li>
+            	  <li class="current"><a href="services.html">Services</a></li>
+            </ul> 
+          </nav>
+      	</div>
+	</header>
+<section id="main">
+ <div class="container">
+  <article id="main-column">
+    <h1 class="page title">Services We Offer</h1>
+   <ul>
+    <li><h3>Video Editing</h3></li>
+        Pricing : Starting from 3000Rs.
+    <li><h3>Video Making</h3></li> 
+        Pricing : Starting from 2500Rs
+    <li> <h3>Video Upgrading</h3></li>  
+        Pricing : Starting From 1500Rs      
+    
+
+    
+  </article>
+  <aside id="sidebar">
+  <div class="dark">
+  
+    <h1>Get In Touch With Us</h1>
+     <p>We Will  Contact You Soon</p>
+       
+    
+  </div>
+
+  </aside>
+   
+ </div> 
+</section>
+
+
+
+
+   </body>
+
+    	</div>
+    </section> 
+<div>
+    <footer>
+      <p>Bailiwick Video Productions COPYRIGHT © 2019</p>
+    </footer>
+</div>
+   
+
+</html>
